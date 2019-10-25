@@ -1,0 +1,66 @@
+64	13.89	DNA/RNA/Protein/Metabolic NoDivision
+12	13.89	DNA/RNA/Protein/Metabolic NoDivision
+52	13.89	DNA/RNA/Protein/Metabolic NoDivision
+61	13.89	DNA/RNA/Protein/Metabolic NoDivision
+66	13.89	DNA/RNA/Protein/Metabolic NoDivision
+16	12.66	Non Essential Divided
+26	13.89	DNA/RNA/Protein/Metabolic NoDivision
+45	13.89	DNA/RNA/Protein/Metabolic NoDivision
+60	13.89	DNA/RNA/Protein/Metabolic NoDivision
+48	13.89	DNA/RNA/Protein/Metabolic NoDivision
+32	13.89	DNA/RNA/Protein/Metabolic NoDivision
+62	13.89	DNA/RNA/Protein/Metabolic NoDivision
+29	13.89	DNA/RNA/Protein/Metabolic NoDivision
+59	13.89	DNA/RNA/Protein/Metabolic NoDivision
+51	13.89	DNA/RNA/Protein/Metabolic NoDivision
+50	13.89	DNA/RNA/Protein/Metabolic NoDivision
+31	13.89	DNA/RNA/Protein/Metabolic NoDivision
+47	13.89	DNA/RNA/Protein/Metabolic NoDivision
+13	9.833	Non Essential Divided
+35	11.1	Non Essential Divided
+65	8.794	Non Essential Divided
+17	12.17	Non Essential Divided
+56	9.904	Non Essential Divided
+25	8.234	Non Essential Divided
+1	8.749	Non Essential Divided
+42	10.44	Non Essential Divided
+7	10.05	Non Essential Divided
+41	10.65	Non Essential Divided
+53	10.98	Non Essential Divided
+40	10.9	Non Essential Divided
+57	11.66	Non Essential Divided
+19	10.89	Non Essential Divided
+54	11.75	Non Essential Divided
+4	9.378	Non Essential Divided
+3	8.782	Non Essential Divided
+38	11.59	Non Essential Divided
+58	9.737	Non Essential Divided
+28	9.573	Non Essential Divided
+6	9.454	Non Essential Divided
+18	9.385	Non Essential Divided
+21	12.09	Non Essential Divided
+5	9.679	Non Essential Divided
+11	9.774	Non Essential Divided
+39	9.989	Non Essential Divided
+33	12.39	Non Essential Divided
+34	12.07	Non Essential Divided
+27	10.04	Non Essential Divided
+15	10.13	Non Essential Divided
+23	13.89	DNA/RNA/Protein/Metabolic NoDivision
+20	10.21	Non Essential Divided
+44	10.41	Non Essential Divided
+9	10.36	Non Essential Divided
+24	10.61	Non Essential Divided
+2	10.59	Non Essential Divided
+14	10.46	Non Essential Divided
+22	13.01	Non Essential Divided
+8	10.67	Non Essential Divided
+49	13.55	Non Essential Divided
+55	13.89	DNA/RNA/Protein/Metabolic NoDivision
+36	11.41	Non Essential Divided
+63	13.89	DNA/RNA/Protein/Metabolic NoDivision
+37	13.89	DNA/RNA/Protein/Metabolic NoDivision
+10	13.89	DNA/RNA/Protein/Metabolic NoDivision
+43	13.89	DNA/RNA/Protein/Metabolic NoDivision
+30	13.89	DNA/RNA/Protein/Metabolic NoDivision
+46	13.89	DNA/RNA/Protein/Metabolic NoDivision

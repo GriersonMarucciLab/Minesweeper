@@ -1,0 +1,18 @@
+4	7.645	Non Essential Divided
+6	10.04	Non Essential Divided
+4 6	8.067	Non Essential Divided
+4 8	12.08	Non Essential Divided
+3 8	9.379	Non Essential Divided
+6 5	11.66	Non Essential Divided
+6 8	9.23	Non Essential Divided
+4 3 5	9.831	Non Essential Divided
+4 6 5	12.03	Non Essential Divided
+3 6 5	12.27	Non Essential Divided
+3 5 8	9.659	Non Essential Divided
+6 5 8	12.76	Non Essential Divided
+4 3 6 5	11.09	Non Essential Divided
+4 3 6 8	9.304	Non Essential Divided
+4 3 5 8	9.915	Non Essential Divided
+4 6 5 8	10.26	Non Essential Divided
+3 6 5 8	11.23	Non Essential Divided
+4 3 6 5 8	13.32	Non Essential Divided

@@ -1,0 +1,20 @@
+5	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+7	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+3	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+8	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+10	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+1	7.876
+Non Essential Divided
+2	13.38
+Non Essential Divided
+9	9.869
+Non Essential Divided
+4	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+6	13.89
+DNA/RNA/Protein/Metabolic NoDivision

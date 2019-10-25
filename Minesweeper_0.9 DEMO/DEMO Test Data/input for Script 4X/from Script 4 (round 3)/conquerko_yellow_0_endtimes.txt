@@ -1,0 +1,512 @@
+250	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+189	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+193	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+177	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+56	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+187	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+251	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+182	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+185	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+225	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+192	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+114	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+140	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+66	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+93	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+76	10.87
+Non Essential Divided
+214	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+221	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+228	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+256	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+253	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+254	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+89	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+47	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+190	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+252	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+230	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+240	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+173	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+127	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+239	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+179	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+171	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+169	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+235	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+196	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+54	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+116	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+51	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+125	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+128	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+194	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+234	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+229	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+97	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+197	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+248	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+108	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+183	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+175	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+237	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+8	9.352
+Non Essential Divided
+118	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+101	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+232	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+58	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+42	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+223	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+180	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+198	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+238	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+155	10.37
+Non Essential Divided
+104	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+106	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+233	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+111	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+15	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+120	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+166	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+122	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+226	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+124	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+152	10.9
+Non Essential Divided
+14	9.815
+Non Essential Divided
+136	8.032
+Non Essential Divided
+85	9.376
+Non Essential Divided
+181	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+2	9.666
+Non Essential Divided
+161	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+236	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+156	11.56
+Non Essential Divided
+153	10.37
+Non Essential Divided
+5	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+133	12.49
+Non Essential Divided
+113	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+44	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+245	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+157	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+164	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+231	11.31
+Non Essential Divided
+62	8.267
+Non Essential Divided
+82	11.1
+Non Essential Divided
+200	8.684
+Non Essential Divided
+30	8.404
+Non Essential Divided
+227	11.26
+Non Essential Divided
+95	10.75
+Non Essential Divided
+220	10.22
+Non Essential Divided
+64	10.77
+Non Essential Divided
+32	11.98
+Non Essential Divided
+150	9.09
+Non Essential Divided
+103	9.927
+Non Essential Divided
+1	8.849
+Non Essential Divided
+74	10.91
+Non Essential Divided
+243	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+222	8.248
+Non Essential Divided
+202	10.13
+Non Essential Divided
+191	11.29
+Non Essential Divided
+28	9.34
+Non Essential Divided
+255	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+81	11.82
+Non Essential Divided
+176	11.38
+Non Essential Divided
+141	10.44
+Non Essential Divided
+46	12.48
+Non Essential Divided
+172	11.42
+Non Essential Divided
+184	9.23
+Non Essential Divided
+6	7.962
+Non Essential Divided
+9	8.658
+Non Essential Divided
+35	9.841
+Non Essential Divided
+4	8.814
+Non Essential Divided
+131	11.84
+Non Essential Divided
+25	9.118
+Non Essential Divided
+244	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+70	10.19
+Non Essential Divided
+45	12.06
+Non Essential Divided
+99	8.808
+Non Essential Divided
+90	12.04
+Non Essential Divided
+55	8.789
+Non Essential Divided
+60	11.33
+Non Essential Divided
+27	9.162
+Non Essential Divided
+241	11.28
+Non Essential Divided
+165	8.838
+Non Essential Divided
+41	8.814
+Non Essential Divided
+204	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+158	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+159	11.25
+Non Essential Divided
+147	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+199	9.529
+Non Essential Divided
+217	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+167	9.047
+Non Essential Divided
+43	8.809
+Non Essential Divided
+71	11.18
+Non Essential Divided
+206	10.91
+Non Essential Divided
+11	9.039
+Non Essential Divided
+12	9.193
+Non Essential Divided
+21	11.1
+Non Essential Divided
+224	10.02
+Non Essential Divided
+242	9.605
+Non Essential Divided
+37	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+247	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+53	9.298
+Non Essential Divided
+154	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+49	9.361
+Non Essential Divided
+130	9.262
+Non Essential Divided
+129	9.62
+Non Essential Divided
+145	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+115	9.573
+Non Essential Divided
+18	9.166
+Non Essential Divided
+50	9.587
+Non Essential Divided
+135	9.693
+Non Essential Divided
+68	9.346
+Non Essential Divided
+213	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+112	11.35
+Non Essential Divided
+249	10.36
+Non Essential Divided
+174	10.35
+Non Essential Divided
+137	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+48	9.899
+Non Essential Divided
+91	9.66
+Non Essential Divided
+149	13.01
+Non Essential Divided
+102	10.16
+Non Essential Divided
+38	9.765
+Non Essential Divided
+162	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+170	10.28
+Non Essential Divided
+209	12.39
+Non Essential Divided
+22	9.836
+Non Essential Divided
+134	12.46
+Non Essential Divided
+34	9.976
+Non Essential Divided
+123	10.5
+Non Essential Divided
+208	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+39	10.01
+Non Essential Divided
+218	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+61	10.18
+Non Essential Divided
+20	12.44
+Non Essential Divided
+63	10.02
+Non Essential Divided
+24	10.03
+Non Essential Divided
+75	10.13
+Non Essential Divided
+10	10.99
+Non Essential Divided
+73	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+59	10.31
+Non Essential Divided
+144	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+13	10.1
+Non Essential Divided
+203	11.07
+Non Essential Divided
+72	10.34
+Non Essential Divided
+29	10.39
+Non Essential Divided
+65	10.37
+Non Essential Divided
+87	12.96
+Non Essential Divided
+139	11.07
+Non Essential Divided
+36	10.8
+Non Essential Divided
+52	12.09
+Non Essential Divided
+117	11.03
+Non Essential Divided
+69	13.21
+Non Essential Divided
+142	13.38
+Non Essential Divided
+79	12.95
+Non Essential Divided
+86	10.54
+Non Essential Divided
+16	10.69
+Non Essential Divided
+96	11.06
+Non Essential Divided
+163	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+3	10.81
+Non Essential Divided
+246	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+88	10.63
+Non Essential Divided
+215	11.09
+Non Essential Divided
+80	10.91
+Non Essential Divided
+126	11.48
+Non Essential Divided
+83	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+211	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+7	11.2
+Non Essential Divided
+67	11.27
+Non Essential Divided
+178	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+19	11.27
+Non Essential Divided
+138	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+188	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+33	13.69
+Non Essential Divided
+148	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+23	11.64
+Non Essential Divided
+186	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+219	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+119	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+17	11.38
+Non Essential Divided
+110	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+201	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+207	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+132	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+212	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+216	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+195	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+121	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+205	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+210	12.03
+Non Essential Divided
+98	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+160	12.48
+Non Essential Divided
+31	12.32
+Non Essential Divided
+105	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+94	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+143	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+151	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+84	12.13
+Non Essential Divided
+109	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+78	12.37
+Non Essential Divided
+100	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+107	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+77	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+92	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+146	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+57	12.93
+Non Essential Divided
+168	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+26	13.89
+DNA/RNA/Protein/Metabolic NoDivision
+40	13.89
+DNA/RNA/Protein/Metabolic NoDivision

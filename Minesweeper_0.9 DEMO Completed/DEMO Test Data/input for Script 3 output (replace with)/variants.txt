@@ -1,0 +1,3 @@
+red_0	60b
+yellow_0	33a
+blue_0	33b

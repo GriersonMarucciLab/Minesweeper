@@ -1,0 +1,38 @@
+5	10.08	Non Essential Divided
+2	8.836	Non Essential Divided
+4 5	12.92	Non Essential Divided
+4 8	9.035	Non Essential Divided
+4 3	8.805	Non Essential Divided
+6 5	10.83	Non Essential Divided
+6 8	13.84	Non Essential Divided
+6 2	11.61	Non Essential Divided
+5 8	8.931	Non Essential Divided
+5 3	10.57	Non Essential Divided
+8 3	10.96	Non Essential Divided
+8 2	11.9	Non Essential Divided
+3 2	10.97	Non Essential Divided
+4 6 5	9.531	Non Essential Divided
+4 6 3	8.682	Non Essential Divided
+4 5 8	8.414	Non Essential Divided
+4 5 3	10.1	Non Essential Divided
+4 8 3	9.256	Non Essential Divided
+4 8 2	10.75	Non Essential Divided
+4 3 2	12.98	Non Essential Divided
+6 5 8	9.472	Non Essential Divided
+6 5 2	13.14	Non Essential Divided
+6 8 3	9.992	Non Essential Divided
+6 8 2	10.34	Non Essential Divided
+6 3 2	11.47	Non Essential Divided
+5 3 2	10.92	Non Essential Divided
+4 6 5 8	11.76	Non Essential Divided
+4 6 5 2	11.25	Non Essential Divided
+4 6 8 2	10.38	Non Essential Divided
+4 6 3 2	12.83	Non Essential Divided
+4 5 8 2	10.25	Non Essential Divided
+6 5 8 2	11.46	Non Essential Divided
+6 5 3 2	12.14	Non Essential Divided
+5 8 3 2	10.27	Non Essential Divided
+4 6 5 8 3	8.876	Non Essential Divided
+4 6 8 3 2	12.6	Non Essential Divided
+4 5 8 3 2	11.93	Non Essential Divided
+4 6 5 8 3 2	12.16	Non Essential Divided

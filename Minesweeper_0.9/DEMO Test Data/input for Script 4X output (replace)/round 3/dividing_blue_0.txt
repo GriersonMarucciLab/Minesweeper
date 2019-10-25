@@ -1,0 +1,39 @@
+33b	10.59	Non Essential Divided
+12.5g	8.782	Non Essential Divided
+12.5f	9.378	Non Essential Divided
+33c	9.679	Non Essential Divided
+12.5h	9.454	Non Essential Divided
+33a	10.05	Non Essential Divided
+33b 12.5g	10.67	Non Essential Divided
+33b 12.5f	10.36	Non Essential Divided
+33b 12.5h	9.774	Non Essential Divided
+12.5g 12.5f	9.833	Non Essential Divided
+12.5g 33c	10.46	Non Essential Divided
+12.5g 12.5h	10.13	Non Essential Divided
+12.5g 33a	12.66	Non Essential Divided
+12.5f 33c	12.17	Non Essential Divided
+12.5f 12.5h	9.385	Non Essential Divided
+12.5f 33a	10.89	Non Essential Divided
+33c 12.5h	10.21	Non Essential Divided
+33c 33a	12.09	Non Essential Divided
+12.5h 33a	13.01	Non Essential Divided
+33b 12.5g 33c	10.61	Non Essential Divided
+33b 12.5g 12.5h	8.234	Non Essential Divided
+33b 12.5f 33c	10.04	Non Essential Divided
+33b 12.5f 12.5h	9.573	Non Essential Divided
+12.5g 12.5f 33c	12.39	Non Essential Divided
+12.5g 12.5f 12.5h	12.07	Non Essential Divided
+12.5g 12.5f 33a	11.1	Non Essential Divided
+12.5g 33c 12.5h	11.41	Non Essential Divided
+12.5g 12.5h 33a	11.59	Non Essential Divided
+12.5f 33c 12.5h	9.989	Non Essential Divided
+12.5f 33c 33a	10.9	Non Essential Divided
+12.5f 12.5h 33a	10.65	Non Essential Divided
+33c 12.5h 33a	10.44	Non Essential Divided
+33b 12.5g 12.5f 12.5h	10.41	Non Essential Divided
+33b 12.5f 33c 12.5h	13.55	Non Essential Divided
+12.5g 12.5f 33c 12.5h	10.98	Non Essential Divided
+12.5g 12.5f 33c 33a	11.75	Non Essential Divided
+12.5g 33c 12.5h 33a	9.904	Non Essential Divided
+12.5f 33c 12.5h 33a	11.66	Non Essential Divided
+33b 12.5g 12.5f 33c 12.5h	9.737	Non Essential Divided

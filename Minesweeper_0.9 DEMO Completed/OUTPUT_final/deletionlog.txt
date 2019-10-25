@@ -1,0 +1,269 @@
+
+Your input values have been saved in INPUT_script_1/user_input.txt - you can update them there if needed.
+
+Created bash script/s (*.sh), *_exp.list/s, and *_ko.list/s in OUTPUT_script_1.
+
+> See readme / lines 10-32 in bash script for what to do next.
+> See lines 128 - 154 in bash script for directories you need to create locally or on supercomputer.
+
+Your/one of your expected folder structures is:
+- projects
+	- flex1
+		- jr0904
+			- output
+				- minesweeper
+					- mineinputko{}
+						- inputko
+						- wildtype
+						- mutant
+						- pdfs
+						- figs
+
+
+Have matched the simulation results with gene codes and saved the results in OUTPUT_script_2/matchedgeneresults.txt.
+
+Have filtered the results (deletions that still produce dividing cells) and saved in OUTPUT_script_2/nonessential.txt.
+
+Have created the 100% deletion segment in OUTPUT_script_2/divisionsegment100.txt
+
+Have created the 90% deletion segment in OUTPUT_script_2/divisionsegment90a.txt
+
+Have created the 90% deletion segment in OUTPUT_script_2/divisionsegment90b.txt
+
+Have created the 80% deletion segment in OUTPUT_script_2/divisionsegment80a.txt
+
+Have created the 80% deletion segment in OUTPUT_script_2/divisionsegment80b.txt
+
+Have created the 70% deletion segment in OUTPUT_script_2/divisionsegment70a.txt
+
+Have created the 70% deletion segment in OUTPUT_script_2/divisionsegment70b.txt
+
+Have created the 60% deletion segment in OUTPUT_script_2/divisionsegment60a.txt
+
+Have created the 60% deletion segment in OUTPUT_script_2/divisionsegment60b.txt
+
+Have created the 50% deletion segment in OUTPUT_script_2/divisionsegment50a.txt
+
+Have created the 50% deletion segment in OUTPUT_script_2/divisionsegment50b.txt
+
+Have created the 33% deletion segment in OUTPUT_script_2/divisionsegment33a.txt
+
+Have created the 33% deletion segment in OUTPUT_script_2/divisionsegment33b.txt
+
+Have created the 33% deletion segment in OUTPUT_script_2/divisionsegment33c.txt
+
+Have created the 25% deletion segment in OUTPUT_script_2/divisionsegment25a.txt
+
+Have created the 25% deletion segment in OUTPUT_script_2/divisionsegment25b.txt
+
+Have created the 25% deletion segment in OUTPUT_script_2/divisionsegment25c.txt
+
+Have created the 25% deletion segment in OUTPUT_script_2/divisionsegment25d.txt
+
+Have created the 12.5% deletion segment in OUTPUT_script_2/divisionsegment12_5a.txt
+
+Have created the 12.5% deletion segment in OUTPUT_script_2/divisionsegment12_5b.txt
+
+Have created the 12.5% deletion segment in OUTPUT_script_2/divisionsegment12_5c.txt
+
+Have created the 12.5% deletion segment in OUTPUT_script_2/divisionsegment12_5d.txt
+
+Have created the 12.5% deletion segment in OUTPUT_script_2/divisionsegment12_5e.txt
+
+Have created the 12.5% deletion segment in OUTPUT_script_2/divisionsegment12_5f.txt
+
+Have created the 12.5% deletion segment in OUTPUT_script_2/divisionsegment12_5g.txt
+
+Have created the 12.5% deletion segment in OUTPUT_script_2/divisionsegment12_5h.txt
+
+Have created the 26 deletion segments, see OUTPUT_script_2/alldivisionsegments.txt
+
+Created bash script (*.sh), *_exp.list, and *_ko.list in OUTPUT_script_2.
+
+> See readme / lines 10-32 in bash script for what to do next.
+> See lines 128 - 154 in bash script for directories you need to create locally or on supercomputer.
+
+Your expected folder structure is:
+- projects
+	- flex1
+		- jr0904
+			- output
+				- minesweeper
+					- minedivide
+						- divide
+						- wildtype
+						- mutant
+						- pdfs
+						- figs
+
+
+Have matched the simulation results with % boards and saved the results in OUTPUT_script_3/matchedresults.txt.
+Largest initial deletion segments:
+red_0	60b
+yellow_0	33a
+blue_0	33b
+
+Have filtered the % boards results for successful division and largest 3 division segments.
+
+Created and saved OUTPUT_script_3/red_0_combosandgenes.txt.
+
+Created and saved OUTPUT_script_3/yellow_0_combosandgenes.txt.
+
+Created and saved OUTPUT_script_3/blue_0_combosandgenes.txt.
+
+Created bash scripts (*.sh), *_exp.lists, and *_ko.lists in OUTPUT_script_3.
+
+> See readme / lines 10-32 in bash script for what to do next.
+> See lines 128 - 154 in bash script for directories you need to create locally or on supercomputer.
+
+One of your expected folder structures is:
+- projects
+	- flex1
+		- jr0904
+			- output
+				- minesweeper
+					- mineconquer
+						- conquer
+						- wildtype
+						- mutant
+						- pdfs
+						- figs
+
+
+
+Have matched the simulation results for ['_red_0', '_yellow_0', '_blue_0'] and saved the results in OUTPUT_script_4X/matchedresults.txt.
+Have filtered the dividing results and saved in OUTPUT_script_4X/OUTPUT_script_4X/dividing_red_0.txt.
+Have filtered the dividing results and saved in OUTPUT_script_4X/OUTPUT_script_4X/dividing_yellow_0.txt.
+Have filtered the dividing results and saved in OUTPUT_script_4X/OUTPUT_script_4X/dividing_blue_0.txt.
+
+A _red_0 combination deleted 111 genes, leaving 38 remaining genes.
+The genes deleted: ["'MG_122',", "'MG_123',", "'MG_127',", "'MG_130',", "'MG_132',", "'MG_139',", "'MG_143',", "'MG_149',", "'MG_170',", "'MG_172',", "'MG_183',", "'MG_184',", "'MG_186',", "'MG_187',", "'MG_188',", "'MG_189',", "'MG_190',", "'MG_191',", "'MG_192',", "'MG_200',", "'MG_205',", "'MG_206',", "'MG_208',", "'MG_209',", "'MG_210',", "'MG_482',", "'MG_213',", "'MG_214',", "'MG_217',", "'MG_218',", "'MG_225',", "'MG_226',", "'MG_227',", "'MG_235',", "'MG_236',", "'MG_239',", "'MG_240',", "'MG_244',", "'MG_252',", "'MG_259',", "'MG_262',", "'MG_498',", "'MG_264',", "'MG_265',", "'MG_277',", "'MG_288',", "'MG_289',", "'MG_290',", "'MG_291',", "'MG_293',", "'MG_297',", "'MG_298',", "'MG_305',", "'MG_309',", "'MG_310',", "'MG_312',", "'MG_316',", "'MG_317',", "'MG_318',", "'MG_324',", "'MG_327',", "'MG_329',", "'MG_333',", "'MG_335',", "'MG_336',", "'MG_339',", "'MG_344',", "'MG_346',", "'MG_349',", "'MG_352',", "'MG_353',", "'MG_355',", "'MG_356',", "'MG_358',", "'MG_359',", "'MG_369',", "'MG_370',", "'MG_376',", "'MG_380',", "'MG_385',", "'MG_386',", "'MG_390',", "'MG_391',", "'MG_392',", "'MG_393',", "'MG_398',", "'MG_399',", "'MG_400',", "'MG_401',", "'MG_402',", "'MG_403',", "'MG_404',", "'MG_405',", "'MG_408',", "'MG_409',", "'MG_421',", "'MG_425',", "'MG_427',", "'MG_428',", "'MG_438',", "'MG_442',", "'MG_447',", "'MG_448',", "'MG_454',", "'MG_457',", "'MG_460',", "'MG_463',", "'MG_464',", "'MG_467',", "'MG_468',", "'MG_526',"]
+The remaining genes are: ["'MG_009',", "'MG_012',", "'MG_014',", "'MG_015',", "'MG_020',", "'MG_027',", "'MG_029',", "'MG_030',", "'MG_033',", "'MG_039',", "'MG_040',", "'MG_046',", "'MG_048',", "'MG_050',", "'MG_052',", "'MG_055',", "'MG_059',", "'MG_061',", "'MG_062',", "'MG_063',", "'MG_064',", "'MG_065',", "'MG_072',", "'MG_073',", "'MG_075',", "'MG_083',", "'MG_085',", "'MG_086',", "'MG_097',", "'MG_101',", "'MG_476',", "'MG_104',", "'MG_105',", "'MG_109',", "'MG_110',", "'MG_119',", "'MG_120',", "'MG_121',"]
+
+
+A _yellow_0 combination deleted 123 genes, leaving 26 remaining genes.
+The genes deleted: ["'MG_009',", "'MG_012',", "'MG_014',", "'MG_015',", "'MG_020',", "'MG_027',", "'MG_029',", "'MG_030',", "'MG_033',", "'MG_039',", "'MG_040',", "'MG_046',", "'MG_048',", "'MG_050',", "'MG_052',", "'MG_055',", "'MG_059',", "'MG_061',", "'MG_062',", "'MG_063',", "'MG_064',", "'MG_065',", "'MG_072',", "'MG_073',", "'MG_075',", "'MG_083',", "'MG_085',", "'MG_086',", "'MG_097',", "'MG_101',", "'MG_476',", "'MG_104',", "'MG_105',", "'MG_109',", "'MG_110',", "'MG_119',", "'MG_120',", "'MG_121',", "'MG_122',", "'MG_123',", "'MG_127',", "'MG_130',", "'MG_132',", "'MG_139',", "'MG_143',", "'MG_149',", "'MG_170',", "'MG_172',", "'MG_183',", "'MG_184',", "'MG_200',", "'MG_205',", "'MG_206',", "'MG_208',", "'MG_209',", "'MG_210',", "'MG_482',", "'MG_213',", "'MG_214',", "'MG_217',", "'MG_218',", "'MG_225',", "'MG_226',", "'MG_227',", "'MG_235',", "'MG_236',", "'MG_239',", "'MG_240',", "'MG_244',", "'MG_317',", "'MG_318',", "'MG_324',", "'MG_327',", "'MG_329',", "'MG_333',", "'MG_335',", "'MG_336',", "'MG_339',", "'MG_344',", "'MG_346',", "'MG_349',", "'MG_352',", "'MG_353',", "'MG_355',", "'MG_356',", "'MG_358',", "'MG_359',", "'MG_369',", "'MG_370',", "'MG_376',", "'MG_380',", "'MG_385',", "'MG_386',", "'MG_390',", "'MG_391',", "'MG_392',", "'MG_393',", "'MG_398',", "'MG_399',", "'MG_400',", "'MG_401',", "'MG_402',", "'MG_403',", "'MG_404',", "'MG_405',", "'MG_408',", "'MG_409',", "'MG_421',", "'MG_425',", "'MG_427',", "'MG_428',", "'MG_438',", "'MG_442',", "'MG_447',", "'MG_448',", "'MG_454',", "'MG_457',", "'MG_460',", "'MG_463',", "'MG_464',", "'MG_467',", "'MG_468',", "'MG_526',"]
+The remaining genes are: ["'MG_186',", "'MG_187',", "'MG_188',", "'MG_189',", "'MG_190',", "'MG_191',", "'MG_192',", "'MG_252',", "'MG_259',", "'MG_262',", "'MG_498',", "'MG_264',", "'MG_265',", "'MG_277',", "'MG_288',", "'MG_289',", "'MG_290',", "'MG_291',", "'MG_293',", "'MG_297',", "'MG_298',", "'MG_305',", "'MG_309',", "'MG_310',", "'MG_312',", "'MG_316',"]
+
+
+A _blue_0 combination deleted 104 genes, leaving 45 remaining genes.
+The genes deleted: ["'MG_009',", "'MG_012',", "'MG_014',", "'MG_015',", "'MG_020',", "'MG_027',", "'MG_029',", "'MG_030',", "'MG_033',", "'MG_039',", "'MG_040',", "'MG_046',", "'MG_048',", "'MG_050',", "'MG_052',", "'MG_055',", "'MG_059',", "'MG_061',", "'MG_062',", "'MG_063',", "'MG_064',", "'MG_065',", "'MG_072',", "'MG_073',", "'MG_075',", "'MG_083',", "'MG_085',", "'MG_086',", "'MG_097',", "'MG_101',", "'MG_476',", "'MG_104',", "'MG_105',", "'MG_109',", "'MG_110',", "'MG_119',", "'MG_120',", "'MG_121',", "'MG_122',", "'MG_123',", "'MG_127',", "'MG_130',", "'MG_132',", "'MG_139',", "'MG_143',", "'MG_149',", "'MG_170',", "'MG_172',", "'MG_183',", "'MG_184',", "'MG_317',", "'MG_318',", "'MG_324',", "'MG_327',", "'MG_329',", "'MG_333',", "'MG_335',", "'MG_336',", "'MG_339',", "'MG_344',", "'MG_346',", "'MG_349',", "'MG_352',", "'MG_353',", "'MG_355',", "'MG_356',", "'MG_358',", "'MG_359',", "'MG_369',", "'MG_370',", "'MG_376',", "'MG_380',", "'MG_385',", "'MG_386',", "'MG_390',", "'MG_391',", "'MG_392',", "'MG_393',", "'MG_398',", "'MG_399',", "'MG_400',", "'MG_401',", "'MG_402',", "'MG_403',", "'MG_404',", "'MG_405',", "'MG_408',", "'MG_409',", "'MG_421',", "'MG_425',", "'MG_427',", "'MG_428',", "'MG_438',", "'MG_442',", "'MG_447',", "'MG_448',", "'MG_454',", "'MG_457',", "'MG_460',", "'MG_463',", "'MG_464',", "'MG_467',", "'MG_468',", "'MG_526',"]
+The remaining genes are: ["'MG_186',", "'MG_187',", "'MG_188',", "'MG_189',", "'MG_190',", "'MG_191',", "'MG_192',", "'MG_200',", "'MG_205',", "'MG_206',", "'MG_208',", "'MG_209',", "'MG_210',", "'MG_482',", "'MG_213',", "'MG_214',", "'MG_217',", "'MG_218',", "'MG_225',", "'MG_226',", "'MG_227',", "'MG_235',", "'MG_236',", "'MG_239',", "'MG_240',", "'MG_244',", "'MG_252',", "'MG_259',", "'MG_262',", "'MG_498',", "'MG_264',", "'MG_265',", "'MG_277',", "'MG_288',", "'MG_289',", "'MG_290',", "'MG_291',", "'MG_293',", "'MG_297',", "'MG_298',", "'MG_305',", "'MG_309',", "'MG_310',", "'MG_312',", "'MG_316',"]
+
+
+Last created 1/8ths deletion segments of remaining genes = OUTPUT_script_4X/eightssegments/red_0remaining_8.txt.
+Created and saved OUTPUT_script_4X/red_1_eightsandgenes.txt.
+Created bash script (*.sh), *_exp.lists, and *_ko.lists in OUTPUT_script_4X/bashexpkofiles/
+You only need /gapko, /pdfs, and /figs internal folders.
+
+red has more than 8 genes remaining, so continuing onto next round.
+
+Last created 1/8ths deletion segments of remaining genes = OUTPUT_script_4X/eightssegments/yellow_0remaining_8.txt.
+Created and saved OUTPUT_script_4X/yellow_1_eightsandgenes.txt.
+Created bash script (*.sh), *_exp.lists, and *_ko.lists in OUTPUT_script_4X/bashexpkofiles/
+You only need /gapko, /pdfs, and /figs internal folders.
+
+yellow has more than 8 genes remaining, so continuing onto next round.
+
+Last created 1/8ths deletion segments of remaining genes = OUTPUT_script_4X/eightssegments/blue_0remaining_8.txt.
+Created and saved OUTPUT_script_4X/blue_1_eightsandgenes.txt.
+Created bash script (*.sh), *_exp.lists, and *_ko.lists in OUTPUT_script_4X/bashexpkofiles/
+You only need /gapko, /pdfs, and /figs internal folders.
+
+blue has more than 8 genes remaining, so continuing onto next round.
+
+
+Have matched the simulation results for ['_red_1', '_yellow_1', '_blue_1'] and saved the results in OUTPUT_script_4X/matchedresults.txt.
+Have filtered the dividing results and saved in OUTPUT_script_4X/OUTPUT_script_4X/dividing_red_1.txt.
+Have filtered the dividing results and saved in OUTPUT_script_4X/OUTPUT_script_4X/dividing_yellow_1.txt.
+Have filtered the dividing results and saved in OUTPUT_script_4X/OUTPUT_script_4X/dividing_blue_1.txt.
+
+A _red_1 combination deleted 139 genes, leaving 10 remaining genes.
+The genes deleted: ["'MG_009',", "'MG_012',", "'MG_014',", "'MG_015',", "'MG_020',", "'MG_040',", "'MG_046',", "'MG_048',", "'MG_050',", "'MG_052',", "'MG_055',", "'MG_059',", "'MG_061',", "'MG_062',", "'MG_063',", "'MG_064',", "'MG_065',", "'MG_072',", "'MG_073',", "'MG_075',", "'MG_083',", "'MG_085',", "'MG_086',", "'MG_097',", "'MG_101',", "'MG_119',", "'MG_120',", "'MG_121',", "'MG_122',", "'MG_123',", "'MG_127',", "'MG_130',", "'MG_132',", "'MG_139',", "'MG_143',", "'MG_149',", "'MG_170',", "'MG_172',", "'MG_183',", "'MG_184',", "'MG_186',", "'MG_187',", "'MG_188',", "'MG_189',", "'MG_190',", "'MG_191',", "'MG_192',", "'MG_200',", "'MG_205',", "'MG_206',", "'MG_208',", "'MG_209',", "'MG_210',", "'MG_482',", "'MG_213',", "'MG_214',", "'MG_217',", "'MG_218',", "'MG_225',", "'MG_226',", "'MG_227',", "'MG_235',", "'MG_236',", "'MG_239',", "'MG_240',", "'MG_244',", "'MG_252',", "'MG_259',", "'MG_262',", "'MG_498',", "'MG_264',", "'MG_265',", "'MG_277',", "'MG_288',", "'MG_289',", "'MG_290',", "'MG_291',", "'MG_293',", "'MG_297',", "'MG_298',", "'MG_305',", "'MG_309',", "'MG_310',", "'MG_312',", "'MG_316',", "'MG_317',", "'MG_318',", "'MG_324',", "'MG_327',", "'MG_329',", "'MG_333',", "'MG_335',", "'MG_336',", "'MG_339',", "'MG_344',", "'MG_346',", "'MG_349',", "'MG_352',", "'MG_353',", "'MG_355',", "'MG_356',", "'MG_358',", "'MG_359',", "'MG_369',", "'MG_370',", "'MG_376',", "'MG_380',", "'MG_385',", "'MG_386',", "'MG_390',", "'MG_391',", "'MG_392',", "'MG_393',", "'MG_398',", "'MG_399',", "'MG_400',", "'MG_401',", "'MG_402',", "'MG_403',", "'MG_404',", "'MG_405',", "'MG_408',", "'MG_409',", "'MG_421',", "'MG_425',", "'MG_427',", "'MG_428',", "'MG_438',", "'MG_442',", "'MG_447',", "'MG_448',", "'MG_454',", "'MG_457',", "'MG_460',", "'MG_463',", "'MG_464',", "'MG_467',", "'MG_468',", "'MG_526',"]
+The remaining genes are: ["'MG_027',", "'MG_029',", "'MG_030',", "'MG_033',", "'MG_039',", "'MG_476',", "'MG_104',", "'MG_105',", "'MG_109',", "'MG_110',"]
+
+
+A _yellow_1 combination deleted 141 genes, leaving 8 remaining genes.
+The genes deleted: ["'MG_009',", "'MG_012',", "'MG_014',", "'MG_015',", "'MG_020',", "'MG_027',", "'MG_029',", "'MG_030',", "'MG_033',", "'MG_039',", "'MG_040',", "'MG_046',", "'MG_048',", "'MG_050',", "'MG_052',", "'MG_055',", "'MG_059',", "'MG_061',", "'MG_062',", "'MG_063',", "'MG_064',", "'MG_065',", "'MG_072',", "'MG_073',", "'MG_075',", "'MG_083',", "'MG_085',", "'MG_086',", "'MG_097',", "'MG_101',", "'MG_476',", "'MG_104',", "'MG_105',", "'MG_109',", "'MG_110',", "'MG_119',", "'MG_120',", "'MG_121',", "'MG_122',", "'MG_123',", "'MG_127',", "'MG_130',", "'MG_132',", "'MG_139',", "'MG_143',", "'MG_149',", "'MG_170',", "'MG_172',", "'MG_183',", "'MG_184',", "'MG_190',", "'MG_191',", "'MG_192',", "'MG_200',", "'MG_205',", "'MG_206',", "'MG_208',", "'MG_209',", "'MG_210',", "'MG_482',", "'MG_213',", "'MG_214',", "'MG_217',", "'MG_218',", "'MG_225',", "'MG_226',", "'MG_227',", "'MG_235',", "'MG_236',", "'MG_239',", "'MG_240',", "'MG_244',", "'MG_252',", "'MG_259',", "'MG_262',", "'MG_498',", "'MG_264',", "'MG_265',", "'MG_277',", "'MG_288',", "'MG_289',", "'MG_290',", "'MG_291',", "'MG_293',", "'MG_297',", "'MG_312',", "'MG_316',", "'MG_317',", "'MG_318',", "'MG_324',", "'MG_327',", "'MG_329',", "'MG_333',", "'MG_335',", "'MG_336',", "'MG_339',", "'MG_344',", "'MG_346',", "'MG_349',", "'MG_352',", "'MG_353',", "'MG_355',", "'MG_356',", "'MG_358',", "'MG_359',", "'MG_369',", "'MG_370',", "'MG_376',", "'MG_380',", "'MG_385',", "'MG_386',", "'MG_390',", "'MG_391',", "'MG_392',", "'MG_393',", "'MG_398',", "'MG_399',", "'MG_400',", "'MG_401',", "'MG_402',", "'MG_403',", "'MG_404',", "'MG_405',", "'MG_408',", "'MG_409',", "'MG_421',", "'MG_425',", "'MG_427',", "'MG_428',", "'MG_438',", "'MG_442',", "'MG_447',", "'MG_448',", "'MG_454',", "'MG_457',", "'MG_460',", "'MG_463',", "'MG_464',", "'MG_467',", "'MG_468',", "'MG_526',"]
+The remaining genes are: ["'MG_186',", "'MG_187',", "'MG_188',", "'MG_189',", "'MG_298',", "'MG_305',", "'MG_309',", "'MG_310',"]
+
+
+A _blue_1 combination deleted 137 genes, leaving 12 remaining genes.
+The genes deleted: ["'MG_009',", "'MG_012',", "'MG_014',", "'MG_015',", "'MG_020',", "'MG_027',", "'MG_029',", "'MG_030',", "'MG_033',", "'MG_039',", "'MG_040',", "'MG_046',", "'MG_048',", "'MG_050',", "'MG_052',", "'MG_055',", "'MG_059',", "'MG_061',", "'MG_062',", "'MG_063',", "'MG_064',", "'MG_065',", "'MG_072',", "'MG_073',", "'MG_075',", "'MG_083',", "'MG_085',", "'MG_086',", "'MG_097',", "'MG_101',", "'MG_476',", "'MG_104',", "'MG_105',", "'MG_109',", "'MG_110',", "'MG_119',", "'MG_120',", "'MG_121',", "'MG_122',", "'MG_123',", "'MG_127',", "'MG_130',", "'MG_132',", "'MG_139',", "'MG_143',", "'MG_149',", "'MG_170',", "'MG_172',", "'MG_183',", "'MG_184',", "'MG_192',", "'MG_200',", "'MG_205',", "'MG_206',", "'MG_208',", "'MG_209',", "'MG_210',", "'MG_482',", "'MG_213',", "'MG_214',", "'MG_217',", "'MG_218',", "'MG_225',", "'MG_226',", "'MG_227',", "'MG_235',", "'MG_236',", "'MG_239',", "'MG_240',", "'MG_244',", "'MG_252',", "'MG_259',", "'MG_262',", "'MG_498',", "'MG_264',", "'MG_265',", "'MG_277',", "'MG_288',", "'MG_289',", "'MG_290',", "'MG_310',", "'MG_312',", "'MG_316',", "'MG_317',", "'MG_318',", "'MG_324',", "'MG_327',", "'MG_329',", "'MG_333',", "'MG_335',", "'MG_336',", "'MG_339',", "'MG_344',", "'MG_346',", "'MG_349',", "'MG_352',", "'MG_353',", "'MG_355',", "'MG_356',", "'MG_358',", "'MG_359',", "'MG_369',", "'MG_370',", "'MG_376',", "'MG_380',", "'MG_385',", "'MG_386',", "'MG_390',", "'MG_391',", "'MG_392',", "'MG_393',", "'MG_398',", "'MG_399',", "'MG_400',", "'MG_401',", "'MG_402',", "'MG_403',", "'MG_404',", "'MG_405',", "'MG_408',", "'MG_409',", "'MG_421',", "'MG_425',", "'MG_427',", "'MG_428',", "'MG_438',", "'MG_442',", "'MG_447',", "'MG_448',", "'MG_454',", "'MG_457',", "'MG_460',", "'MG_463',", "'MG_464',", "'MG_467',", "'MG_468',", "'MG_526',"]
+The remaining genes are: ["'MG_186',", "'MG_187',", "'MG_188',", "'MG_189',", "'MG_190',", "'MG_191',", "'MG_291',", "'MG_293',", "'MG_297',", "'MG_298',", "'MG_305',", "'MG_309',"]
+
+
+Last created 1/8ths deletion segments of remaining genes = OUTPUT_script_4X/eightssegments/red_1remaining_8.txt.
+Created and saved OUTPUT_script_4X/red_2_eightsandgenes.txt.
+Created bash script (*.sh), *_exp.lists, and *_ko.lists in OUTPUT_script_4X/bashexpkofiles/
+You only need /gapko, /pdfs, and /figs internal folders.
+
+red has more than 8 genes remaining, so continuing onto next round.
+
+Last created 1/8ths deletion segments of remaining genes = OUTPUT_script_4X/eightssegments/yellow_1remaining_8.txt.
+Created and saved OUTPUT_script_4X/yellow_2_eightsandgenes.txt.
+Created bash script (*.sh), *_exp.lists, and *_ko.lists in OUTPUT_script_4X/bashexpkofiles/
+You only need /gapko, /pdfs, and /figs internal folders.
+
+yellow has less than 8 genes remaining, so progressing to final round.
+
+Last created 1/8ths deletion segments of remaining genes = OUTPUT_script_4X/eightssegments/blue_1remaining_8.txt.
+Created and saved OUTPUT_script_4X/blue_2_eightsandgenes.txt.
+Created bash script (*.sh), *_exp.lists, and *_ko.lists in OUTPUT_script_4X/bashexpkofiles/
+You only need /gapko, /pdfs, and /figs internal folders.
+
+blue has more than 8 genes remaining, so continuing onto next round.
+
+Have matched the simulation results for ['_red_2', '_yellow_2', '_blue_2'] and saved the results in OUTPUT_script_4X/matchedresults.txt.
+Have filtered the dividing results and saved in OUTPUT_script_4X/OUTPUT_script_4X/dividing_red_2.txt.
+Have filtered the dividing results and saved in OUTPUT_script_4X/OUTPUT_script_4X/dividing_yellow_2.txt.
+Have filtered the dividing results and saved in OUTPUT_script_4X/OUTPUT_script_4X/dividing_blue_2.txt.
+
+A _red_2 combination deleted 146 genes, leaving 3 remaining genes.
+The genes deleted: ["'MG_009',", "'MG_012',", "'MG_014',", "'MG_015',", "'MG_020',", "'MG_027',", "'MG_029',", "'MG_030',", "'MG_033',", "'MG_040',", "'MG_046',", "'MG_048',", "'MG_050',", "'MG_052',", "'MG_055',", "'MG_059',", "'MG_061',", "'MG_062',", "'MG_063',", "'MG_064',", "'MG_065',", "'MG_072',", "'MG_073',", "'MG_075',", "'MG_083',", "'MG_085',", "'MG_086',", "'MG_097',", "'MG_101',", "'MG_476',", "'MG_105',", "'MG_110',", "'MG_119',", "'MG_120',", "'MG_121',", "'MG_122',", "'MG_123',", "'MG_127',", "'MG_130',", "'MG_132',", "'MG_139',", "'MG_143',", "'MG_149',", "'MG_170',", "'MG_172',", "'MG_183',", "'MG_184',", "'MG_186',", "'MG_187',", "'MG_188',", "'MG_189',", "'MG_190',", "'MG_191',", "'MG_192',", "'MG_200',", "'MG_205',", "'MG_206',", "'MG_208',", "'MG_209',", "'MG_210',", "'MG_482',", "'MG_213',", "'MG_214',", "'MG_217',", "'MG_218',", "'MG_225',", "'MG_226',", "'MG_227',", "'MG_235',", "'MG_236',", "'MG_239',", "'MG_240',", "'MG_244',", "'MG_252',", "'MG_259',", "'MG_262',", "'MG_498',", "'MG_264',", "'MG_265',", "'MG_277',", "'MG_288',", "'MG_289',", "'MG_290',", "'MG_291',", "'MG_293',", "'MG_297',", "'MG_298',", "'MG_305',", "'MG_309',", "'MG_310',", "'MG_312',", "'MG_316',", "'MG_317',", "'MG_318',", "'MG_324',", "'MG_327',", "'MG_329',", "'MG_333',", "'MG_335',", "'MG_336',", "'MG_339',", "'MG_344',", "'MG_346',", "'MG_349',", "'MG_352',", "'MG_353',", "'MG_355',", "'MG_356',", "'MG_358',", "'MG_359',", "'MG_369',", "'MG_370',", "'MG_376',", "'MG_380',", "'MG_385',", "'MG_386',", "'MG_390',", "'MG_391',", "'MG_392',", "'MG_393',", "'MG_398',", "'MG_399',", "'MG_400',", "'MG_401',", "'MG_402',", "'MG_403',", "'MG_404',", "'MG_405',", "'MG_408',", "'MG_409',", "'MG_421',", "'MG_425',", "'MG_427',", "'MG_428',", "'MG_438',", "'MG_442',", "'MG_447',", "'MG_448',", "'MG_454',", "'MG_457',", "'MG_460',", "'MG_463',", "'MG_464',", "'MG_467',", "'MG_468',", "'MG_526',"]
+The remaining genes are: ["'MG_039',", "'MG_104',", "'MG_109',"]
+
+
+A _yellow_2 combination deleted 143 genes, leaving 6 remaining genes.
+The genes deleted: ["'MG_009',", "'MG_012',", "'MG_014',", "'MG_015',", "'MG_020',", "'MG_027',", "'MG_029',", "'MG_030',", "'MG_033',", "'MG_039',", "'MG_040',", "'MG_046',", "'MG_048',", "'MG_050',", "'MG_052',", "'MG_055',", "'MG_059',", "'MG_061',", "'MG_062',", "'MG_063',", "'MG_064',", "'MG_065',", "'MG_072',", "'MG_073',", "'MG_075',", "'MG_083',", "'MG_085',", "'MG_086',", "'MG_097',", "'MG_101',", "'MG_476',", "'MG_104',", "'MG_105',", "'MG_109',", "'MG_110',", "'MG_119',", "'MG_120',", "'MG_121',", "'MG_122',", "'MG_123',", "'MG_127',", "'MG_130',", "'MG_132',", "'MG_139',", "'MG_143',", "'MG_149',", "'MG_170',", "'MG_172',", "'MG_183',", "'MG_184',", "'MG_190',", "'MG_191',", "'MG_192',", "'MG_200',", "'MG_205',", "'MG_206',", "'MG_208',", "'MG_209',", "'MG_210',", "'MG_482',", "'MG_213',", "'MG_214',", "'MG_217',", "'MG_218',", "'MG_225',", "'MG_226',", "'MG_227',", "'MG_235',", "'MG_236',", "'MG_239',", "'MG_240',", "'MG_244',", "'MG_252',", "'MG_259',", "'MG_262',", "'MG_498',", "'MG_264',", "'MG_265',", "'MG_277',", "'MG_288',", "'MG_289',", "'MG_290',", "'MG_291',", "'MG_293',", "'MG_297',", "'MG_298',", "'MG_309',", "'MG_312',", "'MG_316',", "'MG_317',", "'MG_318',", "'MG_324',", "'MG_327',", "'MG_329',", "'MG_333',", "'MG_335',", "'MG_336',", "'MG_339',", "'MG_344',", "'MG_346',", "'MG_349',", "'MG_352',", "'MG_353',", "'MG_355',", "'MG_356',", "'MG_358',", "'MG_359',", "'MG_369',", "'MG_370',", "'MG_376',", "'MG_380',", "'MG_385',", "'MG_386',", "'MG_390',", "'MG_391',", "'MG_392',", "'MG_393',", "'MG_398',", "'MG_399',", "'MG_400',", "'MG_401',", "'MG_402',", "'MG_403',", "'MG_404',", "'MG_405',", "'MG_408',", "'MG_409',", "'MG_421',", "'MG_425',", "'MG_427',", "'MG_428',", "'MG_438',", "'MG_442',", "'MG_447',", "'MG_448',", "'MG_454',", "'MG_457',", "'MG_460',", "'MG_463',", "'MG_464',", "'MG_467',", "'MG_468',", "'MG_526',"]
+The remaining genes are: ["'MG_186',", "'MG_187',", "'MG_188',", "'MG_189',", "'MG_305',", "'MG_310',"]
+
+
+A _blue_2 combination deleted 144 genes, leaving 5 remaining genes.
+The genes deleted: ["'MG_009',", "'MG_012',", "'MG_014',", "'MG_015',", "'MG_020',", "'MG_027',", "'MG_029',", "'MG_030',", "'MG_033',", "'MG_039',", "'MG_040',", "'MG_046',", "'MG_048',", "'MG_050',", "'MG_052',", "'MG_055',", "'MG_059',", "'MG_061',", "'MG_062',", "'MG_063',", "'MG_064',", "'MG_065',", "'MG_072',", "'MG_073',", "'MG_075',", "'MG_083',", "'MG_085',", "'MG_086',", "'MG_097',", "'MG_101',", "'MG_476',", "'MG_104',", "'MG_105',", "'MG_109',", "'MG_110',", "'MG_119',", "'MG_120',", "'MG_121',", "'MG_122',", "'MG_123',", "'MG_127',", "'MG_130',", "'MG_132',", "'MG_139',", "'MG_143',", "'MG_149',", "'MG_170',", "'MG_172',", "'MG_183',", "'MG_184',", "'MG_190',", "'MG_191',", "'MG_192',", "'MG_200',", "'MG_205',", "'MG_206',", "'MG_208',", "'MG_209',", "'MG_210',", "'MG_482',", "'MG_213',", "'MG_214',", "'MG_217',", "'MG_218',", "'MG_225',", "'MG_226',", "'MG_227',", "'MG_235',", "'MG_236',", "'MG_239',", "'MG_240',", "'MG_244',", "'MG_252',", "'MG_259',", "'MG_262',", "'MG_498',", "'MG_264',", "'MG_265',", "'MG_277',", "'MG_288',", "'MG_289',", "'MG_290',", "'MG_291',", "'MG_293',", "'MG_297',", "'MG_298',", "'MG_309',", "'MG_310',", "'MG_312',", "'MG_316',", "'MG_317',", "'MG_318',", "'MG_324',", "'MG_327',", "'MG_329',", "'MG_333',", "'MG_335',", "'MG_336',", "'MG_339',", "'MG_344',", "'MG_346',", "'MG_349',", "'MG_352',", "'MG_353',", "'MG_355',", "'MG_356',", "'MG_358',", "'MG_359',", "'MG_369',", "'MG_370',", "'MG_376',", "'MG_380',", "'MG_385',", "'MG_386',", "'MG_390',", "'MG_391',", "'MG_392',", "'MG_393',", "'MG_398',", "'MG_399',", "'MG_400',", "'MG_401',", "'MG_402',", "'MG_403',", "'MG_404',", "'MG_405',", "'MG_408',", "'MG_409',", "'MG_421',", "'MG_425',", "'MG_427',", "'MG_428',", "'MG_438',", "'MG_442',", "'MG_447',", "'MG_448',", "'MG_454',", "'MG_457',", "'MG_460',", "'MG_463',", "'MG_464',", "'MG_467',", "'MG_468',", "'MG_526',"]
+The remaining genes are: ["'MG_186',", "'MG_187',", "'MG_188',", "'MG_189',", "'MG_305',"]
+
+
+Last created 1/8ths deletion segments of remaining genes = OUTPUT_script_4X/eightssegments/red_2remaining_3.txt.
+Created and saved OUTPUT_script_4X/red_3_eightsandgenes.txt.
+Created bash script (*.sh), *_exp.lists, and *_ko.lists in OUTPUT_script_4X/bashexpkofiles/
+You only need /gapko, /pdfs, and /figs internal folders.
+
+red has less than 8 genes remaining, so progressing to final round.
+
+yellow has finished its final round. See OUTPUT_final/yellow_finalresult.txt for result.
+
+Last created 1/8ths deletion segments of remaining genes = OUTPUT_script_4X/eightssegments/blue_2remaining_5.txt.
+Created and saved OUTPUT_script_4X/blue_3_eightsandgenes.txt.
+Created bash script (*.sh), *_exp.lists, and *_ko.lists in OUTPUT_script_4X/bashexpkofiles/
+You only need /gapko, /pdfs, and /figs internal folders.
+
+blue has less than 8 genes remaining, so progressing to final round.
+
+Have matched the simulation results for ['_blue_3', '_red_3'] and saved the results in OUTPUT_script_4X/matchedresults.txt.
+Have filtered the dividing results and saved in OUTPUT_script_4X/OUTPUT_script_4X/dividing_blue_3.txt.
+Have filtered the dividing results and saved in OUTPUT_script_4X/OUTPUT_script_4X/dividing_red_3.txt.
+
+No dividing in-silico cells were produced in this _blue_3 round, re-recording _blue_3 last round's results.
+
+
+A _red_3 combination deleted 147 genes, leaving 2 remaining genes.
+The genes deleted: ["'MG_009',", "'MG_012',", "'MG_014',", "'MG_015',", "'MG_020',", "'MG_027',", "'MG_029',", "'MG_030',", "'MG_033',", "'MG_040',", "'MG_046',", "'MG_048',", "'MG_050',", "'MG_052',", "'MG_055',", "'MG_059',", "'MG_061',", "'MG_062',", "'MG_063',", "'MG_064',", "'MG_065',", "'MG_072',", "'MG_073',", "'MG_075',", "'MG_083',", "'MG_085',", "'MG_086',", "'MG_097',", "'MG_101',", "'MG_476',", "'MG_104',", "'MG_105',", "'MG_110',", "'MG_119',", "'MG_120',", "'MG_121',", "'MG_122',", "'MG_123',", "'MG_127',", "'MG_130',", "'MG_132',", "'MG_139',", "'MG_143',", "'MG_149',", "'MG_170',", "'MG_172',", "'MG_183',", "'MG_184',", "'MG_186',", "'MG_187',", "'MG_188',", "'MG_189',", "'MG_190',", "'MG_191',", "'MG_192',", "'MG_200',", "'MG_205',", "'MG_206',", "'MG_208',", "'MG_209',", "'MG_210',", "'MG_482',", "'MG_213',", "'MG_214',", "'MG_217',", "'MG_218',", "'MG_225',", "'MG_226',", "'MG_227',", "'MG_235',", "'MG_236',", "'MG_239',", "'MG_240',", "'MG_244',", "'MG_252',", "'MG_259',", "'MG_262',", "'MG_498',", "'MG_264',", "'MG_265',", "'MG_277',", "'MG_288',", "'MG_289',", "'MG_290',", "'MG_291',", "'MG_293',", "'MG_297',", "'MG_298',", "'MG_305',", "'MG_309',", "'MG_310',", "'MG_312',", "'MG_316',", "'MG_317',", "'MG_318',", "'MG_324',", "'MG_327',", "'MG_329',", "'MG_333',", "'MG_335',", "'MG_336',", "'MG_339',", "'MG_344',", "'MG_346',", "'MG_349',", "'MG_352',", "'MG_353',", "'MG_355',", "'MG_356',", "'MG_358',", "'MG_359',", "'MG_369',", "'MG_370',", "'MG_376',", "'MG_380',", "'MG_385',", "'MG_386',", "'MG_390',", "'MG_391',", "'MG_392',", "'MG_393',", "'MG_398',", "'MG_399',", "'MG_400',", "'MG_401',", "'MG_402',", "'MG_403',", "'MG_404',", "'MG_405',", "'MG_408',", "'MG_409',", "'MG_421',", "'MG_425',", "'MG_427',", "'MG_428',", "'MG_438',", "'MG_442',", "'MG_447',", "'MG_448',", "'MG_454',", "'MG_457',", "'MG_460',", "'MG_463',", "'MG_464',", "'MG_467',", "'MG_468',", "'MG_526',"]
+The remaining genes are: ["'MG_039',", "'MG_109',"]
+
+
+blue has finished its final round. See OUTPUT_final/blue_finalresult.txt for result.
+
+red has finished its final round. See OUTPUT_final/red_finalresult.txt for result.
+
+Minesweeper has finished :) see OUTPUT_final for results.

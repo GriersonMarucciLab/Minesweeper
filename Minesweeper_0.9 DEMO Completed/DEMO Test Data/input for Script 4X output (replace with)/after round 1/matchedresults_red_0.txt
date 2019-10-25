@@ -1,0 +1,16 @@
+	 	No_Result
+33a	9.577	Non Essential Divided
+60b	11.38	Non Essential Divided
+12.5d	13.4	Non Essential Divided
+12.5c	11.22	Non Essential Divided
+33a 60b	13.89	DNA/RNA/Protein/Metabolic NoDivision
+33a 12.5d	7.318	Non Essential Divided
+33a 12.5c	13.89	DNA/RNA/Protein/Metabolic NoDivision
+60b 12.5d	13.89	DNA/RNA/Protein/Metabolic NoDivision
+60b 12.5c	11.19	Non Essential Divided
+12.5d 12.5c	9.761	Non Essential Divided
+33a 60b 12.5d	13.89	DNA/RNA/Protein/Metabolic NoDivision
+33a 60b 12.5c	13.89	DNA/RNA/Protein/Metabolic NoDivision
+33a 12.5d 12.5c	13.89	DNA/RNA/Protein/Metabolic NoDivision
+60b 12.5d 12.5c	9.51	Non Essential Divided
+33a 60b 12.5d 12.5c	13.89	DNA/RNA/Protein/Metabolic NoDivision

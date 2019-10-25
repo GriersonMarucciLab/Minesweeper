@@ -1,0 +1,254 @@
+	 	No_Result
+4	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7	13.89	DNA/RNA/Protein/Metabolic NoDivision
+1	13.89	DNA/RNA/Protein/Metabolic NoDivision
+5	8.944	Non Essential Divided
+8	10.19	Non Essential Divided
+3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 1	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 5	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 8	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 1	10.29	Non Essential Divided
+6 5	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 8	9.836	Non Essential Divided
+6 3	10.43	Non Essential Divided
+6 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 1	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 5	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 8	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+1 5	13.89	DNA/RNA/Protein/Metabolic NoDivision
+1 8	10.67	Non Essential Divided
+1 3	12.09	Non Essential Divided
+1 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+5 8	13.89	DNA/RNA/Protein/Metabolic NoDivision
+5 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+5 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+8 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 1	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 5	12.57	Non Essential Divided
+4 6 8	9.406	Non Essential Divided
+4 6 3	12.76	Non Essential Divided
+4 6 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 1	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 5	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 8	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 1 5	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 1 8	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 1 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 1 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 5 8	9.842	Non Essential Divided
+4 5 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 5 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 8 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 1	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 5	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 8	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 1 5	11	Non Essential Divided
+6 1 8	8.193	Non Essential Divided
+6 1 3	12.26	Non Essential Divided
+6 1 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 5 8	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 5 3	10.51	Non Essential Divided
+6 5 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 8 3	12.91	Non Essential Divided
+6 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 1 5	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 1 8	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 1 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 1 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 5 8	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 5 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 5 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 8 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+1 5 8	11.32	Non Essential Divided
+1 5 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+1 5 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+1 8 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+1 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+1 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+5 8 3	9.351	Non Essential Divided
+5 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+5 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 1	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 5	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 8	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 1 5	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 1 8	10.87	Non Essential Divided
+4 6 1 3	12.48	Non Essential Divided
+4 6 1 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 5 8	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 5 3	12.64	Non Essential Divided
+4 6 5 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 8 3	8.421	Non Essential Divided
+4 6 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 1 5	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 1 8	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 1 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 1 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 5 8	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 5 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 5 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 8 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 1 5 8	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 1 5 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 1 5 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 1 8 3	8.99	Non Essential Divided
+4 1 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 1 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 5 8 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 5 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 5 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 1 5	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 1 8	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 1 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 1 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 5 8	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 5 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 5 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 8 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 1 5 8	10.9	Non Essential Divided
+6 1 5 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 1 5 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 1 8 3	13.43	Non Essential Divided
+6 1 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 1 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 5 8 3	11.61	Non Essential Divided
+6 5 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 5 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 1 5 8	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 1 5 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 1 5 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 1 8 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 1 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 1 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 5 8 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 5 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 5 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+1 5 8 3	13.57	Non Essential Divided
+1 5 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+1 5 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+1 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+5 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 1 5	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 1 8	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 1 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 1 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 5 8	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 5 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 5 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 8 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 1 5 8	12.19	Non Essential Divided
+4 6 1 5 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 1 5 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 1 8 3	9.558	Non Essential Divided
+4 6 1 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 1 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 5 8 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 5 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 5 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 1 5 8	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 1 5 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 1 5 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 1 8 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 1 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 1 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 5 8 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 5 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 5 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 1 5 8 3	9.955	Non Essential Divided
+4 1 5 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 1 5 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 1 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 5 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 1 5 8	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 1 5 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 1 5 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 1 8 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 1 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 1 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 5 8 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 5 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 5 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 1 5 8 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 1 5 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 1 5 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 1 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 5 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 1 5 8 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 1 5 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 1 5 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 1 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 5 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+1 5 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 1 5 8	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 1 5 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 1 5 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 1 8 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 1 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 1 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 5 8 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 5 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 5 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 1 5 8 3	8.817	Non Essential Divided
+4 6 1 5 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 1 5 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 1 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 5 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 1 5 8 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 1 5 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 1 5 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 1 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 5 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 1 5 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 1 5 8 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 1 5 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 1 5 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 1 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 7 5 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+6 1 5 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+7 1 5 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 1 5 8 3	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 1 5 8 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 1 5 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 1 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 7 5 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 6 1 5 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision
+4 7 1 5 8 3 2	13.89	DNA/RNA/Protein/Metabolic NoDivision

@@ -1,0 +1,22 @@
+NAME	Joshua Rees
+EMAIL	joshua.rees@bristol.ac.uk
+DEPARTMENT	Life Sciences
+UNI	University of Bristol
+SUPERPC	BlueGem
+SUPERQUEUE	SLURM
+GROUP	flex1
+USER	jr0904
+PROJECTFOLDER	minesweeper
+JOB	mineinputko
+
+Your expected folder structure is:- projects
+	- flex1
+		- jr0904
+			- output
+				- minesweeper
+					- mineinputko
+						- inputko
+						- wildtype
+						- mutant
+						- pdfs
+						- figs
