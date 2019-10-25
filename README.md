@@ -3,23 +3,26 @@ Genome Design Algorithm for Minimal Genomes using Whole Cell Models
 
 GAMA and Minesweeper: genome design algorithms for whole-cell models
 ====================================================================
-GAMA Github: .... (update post publication)
+GAMA Github: https://github.com/GriersonMarucciLab/GAMA
 
 Paper: Rees and Chalkley et al 2019, https://doi.org/10.1101/344564 (update post publication)
 
 README Authors: 
 Joshua Rees, joshua.rees@bristol.ac.uk, github: squishybinary
+
 Oliver Chalkley, o.chalkley@bristol.ac.uk, github: OliCUoB
 
 Affiliation: Genome Design Group, Life Sciences, University of Bristol BS8TQ UK
 
 Minesweeper License: GNU General Public License v3.0, gpl-3.0 https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)
+
 GAMA License: GNU General Public License v3.0, gpl-3.0 https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)
 
 Minesweeper Version: 0.9
+
 GAMA Version: 0.1 (Chalkley et al 2019, https://doi.org/10.1101/681270)
 
-Last Updated: 2019-06-28 	
+Last Updated: 2019-10-25	
 
 
 
@@ -252,62 +255,6 @@ This leads to some fun errors if you do not do this, as biologically impossible 
 	i.e. 100% gene removal has already been tested and does not divide, but a script 3 combination that equates to 100% gene removal
 		 is mismatched to a dividing cell result. Script 4 does not account for this biological impossibility, 
 		 and will fail at line 1556 due to remaininggenes_COLOUR_0.txt being blank (though the error code, helpfully, is local variable referenced before assignment).
-
-
-
-GAMA (Installation) (Chalkley et al 2019, https://doi.org/10.1101/681270)
-=========================================================================
-GAMA is written in Python3 and relies on a variety of different packages. These dependencies can be easily taken care of by installing it from PyPI using either:
-> pip install genome_design_suite 
-> conda install genome_design_suite 
-(it is recommended that you do this from within a virtual environment since this is pre-alpha and has not been extensively tested with different versions of all the libraries). 
-A list of dependencies is available in the main directory of the github repository if you would like to do this manually. The main dependency is the genome_design_suite which is a suite of tools created by Oliver Chalkley 
-at the University of Bristol which enables it to be easily run on different (or even multiple) clusters and well as enabling automatic data processing and database management. 
-In order to run this code you must have a computer dedicated to remotely managing the simulations. A PC with a quad-core Intel(R) Xeon(R) CPU E5410 (2.33GHz) and 1GB of RAM running CentOS-6.6 was used as our computer manager, 
-which is referred to as OC2. GAMA was run on OC2 using the scripts contained in gama_management.zip.
-
-For more information about setting the genome design suite see Chalkley et al 2019, https://doi.org/10.1101/681270 .
-
-
-
-Demo (GAMA)
-===========
-GAMA utilises the genome design suite to run massive in-silico gene knock-out experiments using the whole-cell model of M. genitalium - please see https://doi.org/10.1101/681270 to learn about using the genome design suite. 
-The genome design suite requires that one has a Linux computer dedicated to managing the in-silico experiments. There are three broad modules of code that the genome genome design suite uses (1) computer communication; 
-(2) cluster management; and (3) genome design algorithm. Sub-classes of the parent class of (1) and (3) need to be made so that a user can customise experiments for different computer clusters or gene knock-out algorithms. 
-Classes for module (2) need to be written to fit the users custom cluster management goals.
-
-
-Computer communication
------------------------
-The genome design suite provides child computer communication classes that run on BlueCrystalIII and BlueGem - these act as templates for clusters with PBS/Torque or Slurm queuing systems, respectively. 
-These child classes were used in this research (BlueCrystalIII for R&D and BlueGem to run GAMA). If a user wishes to run GAMA on a different cluster then s/he must set up encryption key access to the cluster through SSH, 
-and create a child-class of the computer communication base class.
-
-
-Cluster management 
--------------------
-Two cluster management classes were presented in [] that allowed for data processing. A user can use this setup provided that they make two SQLite3 databases 
-with corresponding Python modules available on the cluster.
-
-
-Genome design algorithm
-------------------------
-GAMA is the genome design algorithm in this case and is designed to be a sub-class of the MGA class of the genome design suite. If the Computer communication and the cluster management modules are setup correctly then this 
-will run without modification.
-
-
-Running GAMA
--------------
-The guess stage has not been fully integrated with the add and mate stage as a unique class as the different classes need to be run sequentially - GeneticAlgorithmFocusSet, and MixFocusSets, respectively. 
-An instance of GeneticAlgorithmFocusSet class will simulate one partition from the guess stage and since there are 4 partitions, 4 scripts are needed to start each partition. These scripts are called focus_on_NE_split_X.py, 
-where X is an integer between 1 and 4 to identify each partition. The add and mate stages should only require one starting script but the initial script contained an error which was corrected by stopping after four generations 
-(i.e. after generation 3 because there is generation 0) and increasing the size of each generation from 400 to 1,000 children. The initial script is called mix_NE_focus_splits.py and the second script is called 
-big_mix_of_split_mixes.py. If the user would like to run these in-silico experiments on a different cluster then instead of instead of creating an instance of the BG class as done in this script the user should create 
-the computer communication sub-class relating to the desired structure. The creation of this sub-class is described in the 'Computer communication' section above. These scripts must be run in Python3.5. It is advised that 
-if one connects to the hub computer through SSH that the job should be run in some kind of terminal multiplexer like GNU Screen or tmux so that it is possible to start the in-silico experiment, log out, and then log in  
-later to monitor the progress. For the latter aim, one must be able to view the standard-out produced by the starting scripts. However, it is also useful to be able to have a record of the standard-out in a 
-file so it is recommended that the start-up scripts are executed with the following command 'python starting_script.py 2>&1 | tee stdout_and_stderr.out' whilst in the appropriate Python3.5 environment.
 
 
 
