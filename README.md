@@ -257,9 +257,11 @@ This leads to some fun errors if you do not do this, as biologically impossible 
 
 GAMA (Installation) (Chalkley et al 2019, https://doi.org/10.1101/681270)
 =========================================================================
-GAMA is written in Python3 and relies on a variety of different packages. These dependencies can be easily taken care of by installing it from PyPI using either �pip install genome_design_suite� or �conda install genome_design_suite� 
+GAMA is written in Python3 and relies on a variety of different packages. These dependencies can be easily taken care of by installing it from PyPI using either:
+> pip install genome_design_suite 
+> conda install genome_design_suite 
 (it is recommended that you do this from within a virtual environment since this is pre-alpha and has not been extensively tested with different versions of all the libraries). 
-A list of dependencies is available in the main directory of the github repository if you would like to do this manually. The main dependency is the �genome_design_suite� which is a suite of tools created by Oliver Chalkley 
+A list of dependencies is available in the main directory of the github repository if you would like to do this manually. The main dependency is the genome_design_suite which is a suite of tools created by Oliver Chalkley 
 at the University of Bristol which enables it to be easily run on different (or even multiple) clusters and well as enabling automatic data processing and database management. 
 In order to run this code you must have a computer dedicated to remotely managing the simulations. A PC with a quad-core Intel(R) Xeon(R) CPU E5410 (2.33GHz) and 1GB of RAM running CentOS-6.6 was used as our computer manager, 
 which is referred to as OC2. GAMA was run on OC2 using the scripts contained in gama_management.zip.
@@ -325,8 +327,8 @@ Copy of Methods Section
 
 Model Availability
 ------------------
-The M.genitalium whole-cell model is freely available: https://github.com/CovertLab/WholeCell. The model requires a single CPU and can be run with 8GB of RAM. We run the M.genitalium whole-cell model on Bristol�s supercomputers using MATLAB R2013b, 
-with the model�s standard settings. However, we use our own version of the SimulationRunner.m. MGGRunner.m is designed for use with supercomputers that start hundreds of simulations simultaneously, artificially incrementing the time-date value 
+The M.genitalium whole-cell model is freely available: https://github.com/CovertLab/WholeCell. The model requires a single CPU and can be run with 8GB of RAM. We run the M.genitalium whole-cell model on Bristols supercomputers using MATLAB R2013b, 
+with the models standard settings. However, we use our own version of the SimulationRunner.m. MGGRunner.m is designed for use with supercomputers that start hundreds of simulations simultaneously, artificially incrementing the time-date value 
 for each simulation, as this value is subsequently used to create the initial conditions of the simulation. This incrementation prevents the running of multiple simulations with identical initial conditions. 
 Our research copy of the whole-cell model was downloaded 10th January 2017.
 
@@ -365,17 +367,17 @@ The three variants are matched with smaller, dividing, non-overlapping segments 
 The fourth stage splits the remaining genes into eight groups. The reason for selecting eight groups and three variants, is that a set of eight produces 256 unique combinations. 
 
 Three variants each with 256 simulations (768 total) is 85% of the capacity of BlueGem. A set of nine groups with three variants (1536 simulations total) is 170% the capacity of BlueGem. 
-Queueing systems mean that you don�t require this number of CPUs in total, but the execution time is multiplied as you wait for the simulations to process. 
+Queueing systems mean that you dont require this number of CPUs in total, but the execution time is multiplied as you wait for the simulations to process. 
 The number of variants and groups can be lowered or increased depending on the number of CPUs you have available.
 
 
 GAMA
 ----
-GAMA is written in Python3 and relies on a variety of different packages. These dependencies can be easily taken care of by installing it from PyPI using either �pip install genome_design_suite� or �conda install genome_design_suite� 
+GAMA is written in Python3 and relies on a variety of different packages. These dependencies can be easily taken care of by installing it from PyPI using either pip install genome_design_suite or conda install genome_design_suite 
 (it is recommended that you do this from within a virtual environment since this is pre-alpha and has not been extensively tested with different versions of all the libraries). 
-A dependencies list is available in the main directory of the github repository if you would like to do this manually. The main dependency is the �genome_design_suite� which is a suite of tools created by Oliver Chalkley at the University of Bristol 
+A dependencies list is available in the main directory of the github repository if you would like to do this manually. The main dependency is the genome_design_suite which is a suite of tools created by Oliver Chalkley at the University of Bristol 
 which enables it to be easily run on different (or even multiple) clusters and well as enabling automatic data processing and database management. Due to the large amount of data produced by the whole-cell model, the simulation output data was 
-reduced to essential data, converted into Pandas DataFrames (https://pandas.pydata.org/) and saved in Pickle files. GAMA would have produced 100s of TBs of data in the model�s native output format (compressed matlab files) which we are not able 
+reduced to essential data, converted into Pandas DataFrames (https://pandas.pydata.org/) and saved in Pickle files. GAMA would have produced 100s of TBs of data in the models native output format (compressed matlab files) which we are not able 
 to store so this was an essential step. In order to run this code you must have a computer dedicated to remotely managing the simulations. A PC with a quad-core Intel(R) Xeon(R) CPU E5410 (2.33GHz) and 1GB of RAM running CentOS-6.6 was used as 
 our computer manager, which is referred to as OC2. GAMA was run on OC2 using the scripts contained in gama_management.zip. Each stage of GAMA was run individually and manually updated as it was in proof-of-concept stage when GAMA_236 was found. 
 ko.db is an SQLite3 database used to stored key information about simulations like average growth rate and division time.
@@ -385,15 +387,15 @@ these can be found in gama/guess. The submission scripts and other files automat
  in gama_data/guess. viability_of_ne_focus_sets_pickles.zip contains the viability data of these simulations and the Python script used to collect it.
 
 The add stage was executed on OC2 by running the files in gama_management.zip -> gama/add. The submission scripts and other files automatically created to run the simulations on the cluster can be found in gama_run_files.zip -> gama_run_files/add. 
-The simulation output can be found in gama_data/add and an overview of the simulation results can be found in ko.db where the batchDescrription.name is some derivative of �mix_ne_focus_split�.
+The simulation output can be found in gama_data/add and an overview of the simulation results can be found in ko.db where the batchDescrription.name is some derivative of mix_ne_focus_split.
 
 The mate stage was executed on OC2 by running the file in gama_management.zip -> gama/mate. The submission scripts and other files automatically created to run the simulations on the cluster can be found in gama_run_files.zip -> gama_run_files/mate. 
-The simulation output can be found in gama_data/mate and an overview of the simulation results can be found in ko.db where batchDescription.name is some derivative of �big_mix_of_split_mixes�.
+The simulation output can be found in gama_data/mate and an overview of the simulation results can be found in ko.db where batchDescription.name is some derivative of big_mix_of_split_mixes.
  
 
 Equipment
 ---------
-We used the University of Bristol Advanced Computing Research Centres�s BlueGem, a 900-core supercomputer, which uses the Slurm queuing system, to run whole-cell model simulations. 
+We used the University of Bristol Advanced Computing Research Centress BlueGem, a 900-core supercomputer, which uses the Slurm queuing system, to run whole-cell model simulations. 
 GAMA also used BlueCrystal, a 3568-core supercomputer, which uses the PBS queuing system.
 We used a standard office desktop computer, with 8GB of ram, to write new code, interact with the supercomputer, and run single whole-cell model simulations. 
 We used the following GUI software on Windows/Linux Cent OS: Notepad++ for code editing, Putty (ssh software)/the terminal to access the supercomputer, and FileZilla (ftp software) to move files in bulk to and from the supercomputer. 
@@ -411,7 +413,7 @@ Data Analysis Process
 The raw data is automatically processed as the simulation ends. runGraphs.m carries out the initial analysis, while compareGraphs.m overlays the output on collated graphs of 200 unmodified M.genitalium simulations. Both outputs are saved as MATLAB .fig and .pdfs,
 though the .fig files were the sole files analysed. The raw .mat files were stored in case further investigation was required.
  
-To classify our data we chose to use the phenotype classification previously outlined by Karr (Figure 6B 17), which graphed five variables to determine the simulated cells� phenotype. However, the script responsible for producing Figure 6B, 
+To classify our data we chose to use the phenotype classification previously outlined by Karr (Figure 6B 17), which graphed five variables to determine the simulated cells phenotype. However, the script responsible for producing Figure 6B, 
 SingleGeneDeletions.m, was not easily modified. This led us to develop our own analysis script recreating the classification: runGraphs.m graphs growth, protein weight, RNA weight, DNA replication, cell division, ands records several experimental details. 
 
 There are seven possible phenotypes caused by knocking out genes in the simulation: non-essential if producing a dividing cell; and essential if producing a non-dividing cell because of a DNA replication mutation, RNA production mutation, 
@@ -422,7 +424,7 @@ the decision tree (see Supplementary Information D).
 
 For simulations conducted by Minesweeper and GAMA, simulations were automatically classified solely by division, which can be analysed from cell width or the endtime of the simulation.
 
-Further analysis, including: cross-comparison of single-gene knockout simulations, comparison to Karr et al�s 17 results, analysis of Minesweeper and GAMA genomes (genetic content and similarity, behavioural analysis, phenotypic penetrance, gene ontology), 
+Further analysis, including: cross-comparison of single-gene knockout simulations, comparison to Karr et als 17 results, analysis of Minesweeper and GAMA genomes (genetic content and similarity, behavioural analysis, phenotypic penetrance, gene ontology), 
 and identification and investigation of high and low essentiality genes and groupings, were completed manually. The GO term analysis of gene deletion impacts was processed by a created script, then organised into tables of GO terms 
 that were unaffected, reduced, or removed entirely.
 
@@ -431,13 +433,13 @@ Modelling: Scripts, Process and Simulations
 -------------------------------------------
 Generally, there are six scripts we used to run the whole-cell model. Three are the experimental files created with each new experiment (the bash script, gene list, experiment list), and three are stored within the whole-cell model 
 and are updated only upon improvement (MGGrunner.m, runGraphs.m, and compareGraphs.m). The bash script is a list of commands for the supercomputer(s) to carry out. Each new bash script is created from the GenericScript.sh template, 
-which determines how many simulations to run, where to store the output, which analysis to run, and where to store the results of the analysis. The gene list is a text file containing rows of gene codes (in the format �MG_XXX�,). 
+which determines how many simulations to run, where to store the output, which analysis to run, and where to store the results of the analysis. The gene list is a text file containing rows of gene codes (in the format 'MG_XXX',). 
 Each row corresponds to a single simulation and determines which genes that simulation should knockout. 
 
 The experiment list is a text file containing rows of simulation names. Each row corresponds to a single simulation and determines where the simulation output and results of the analysis are stored. 
 In brief, to manually run the whole-cell model: a new bash script, gene list, and experiment list are created on the desktop computer to answer an experimental question. The supercomputer is accessed on the desktop via ftp software, 
 where the new experimental files are uploaded, the planned output folders are created, and MGGRunner.m, runGraphs.m, compareGraphs.m files are confirmed to be present. The supercomputer is then accessed on the desktop via ssh software, 
-where the new bash script is made executable and added to the supercomputer�s queuing system to be executed. Once the experiment is complete, the supercomputer is accessed on the desktop via ssh software, where the results of the analysis are 
+where the new bash script is made executable and added to the supercomputers queuing system to be executed. Once the experiment is complete, the supercomputer is accessed on the desktop via ssh software, where the results of the analysis are 
 moved to /pdf and /fig folders. These folders are accessed on the desktop via ftp software, where the results of the analysis are downloaded. More detailed instructions are contained within the template bash script.
 Each wild-type simulation consists of 300 files requiring 0.3GB. Each gene manipulated simulation can consist of up to 500 files requiring between 0.4GB and 0.9GB. Each simulation takes 5 to 12 hours to complete in real time, 7 - 13.89 hours in simulated time.
 
@@ -446,6 +448,6 @@ Data Availability
 -----------------
 The databases used to design our in-silico experiments, and compare our results to, includes Karr et al 17 and Glass et al 24 Supplementary Information, and Fraser et al M.genitalium G37 genome 18 interpreted by KEGG 26 and UniProt 25 as 
 strain ATCC 33530/NCTC 10195. 
-Minesweeper simulations raw and transformed output (.mat files) are available upon request, as they require 4.2 TB of storage. The output .fig files (10 GB) are available for download from our group�s Research Data Repository 
+Minesweeper simulations raw and transformed output (.mat files) are available upon request, as they require 4.2 TB of storage. The output .fig files (10 GB) are available for download from our groups Research Data Repository 
 at the University of Bristol. GAMA simulations transformed output is available in ko.db.
 
