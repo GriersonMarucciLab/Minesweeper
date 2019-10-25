@@ -53,27 +53,27 @@ The use of no external libraries means that the code is longer than it could be,
 
 We used a standard office desktop computer, with 8GB of ram, to write new code, interact with the supercomputer, and run single whole-cell model simulations. 
 We used the following GUI software on Windows/Linux Cent OS: 
-> Notepad++ / Sublime for code editing
-> Putty (ssh software)/ the terminal to access the supercomputer
-> FileZilla (ftp software) to move files in bulk to and from the supercomputer
-> PyCharm (IDE software) for an inbuilt desktop terminal and python debugging
+- Notepad++ / Sublime for code editing
+- Putty (ssh software)/ the terminal to access the supercomputer
+- FileZilla (ftp software) to move files in bulk to and from the supercomputer
+- PyCharm (IDE software) for an inbuilt desktop terminal and python debugging
 
 The command line software we used included: 
-> VIM for code editing and file reading
-> SSH, Rsync, and Bash for communication and file transfer with the supercomputers
+- VIM for code editing and file reading
+- SSH, Rsync, and Bash for communication and file transfer with the supercomputers
 
 Install time: download time of Minesweeper. 
 
 Steps to install:
 -----------------
-> Download / unzip Minesweeper code and test data 
-> Make a copy of the Minesweeper_0.9 folder, rename it appropiate to your project, and place it in your preferred location
+- Download / unzip Minesweeper code and test data 
+- Make a copy of the Minesweeper_0.9 folder, rename it appropiate to your project, and place it in your preferred location
 
 
 Run the first stage:
 --------------------
-> The first required text file (genes.txt, containing the protein-coding gene codes in the model) is already present in a preexisting folder structure (INPUT_script_1). 
-> Skip the IFs if this is your first time running the algorithm or you want the default settings
+- The first required text file (genes.txt, containing the protein-coding gene codes in the model) is already present in a preexisting folder structure (INPUT_script_1). 
+- Skip the IFs if this is your first time running the algorithm or you want the default settings
 
 ----------------------------------------------------------------------------------------------------------------------------
 > IF you would like to create a custom file of genes to attempt to knockout from the Mycoplasma genitalium in-silico genome:
@@ -96,11 +96,11 @@ Run the first stage:
 	Save to: OUTPUT_script_1  
 ----------------------------------------------------------------------------------------------------------------------------
 	
-> In either a terminal or an IDE:
+- In either a terminal or an IDE:
 	Change the directory to your project folder in your preferred location
 	Run the code by typing: python script1.py 
 	
-> The code will output generated simulation files and save actions taken to the log file. See: 
+- The code will output generated simulation files and save actions taken to the log file. See: 
 	Generated simulation files: *.sh , *_exp.list, *_ko.list in OUTPUT_script_1
 	Log file: deletionlog.txt in OUTPUT_final
 
@@ -111,8 +111,8 @@ Run the first stage:
 
 Run Simulation Files on Supercomputer
 -------------------------------------
-> Download the whole-cell model files from https://github.com/CovertLab/WholeCell 
-> Create the following directory structure using information provided as part of script_1 (see user_input.txt in OUTPUT_script_1) 
+- Download the whole-cell model files from https://github.com/CovertLab/WholeCell 
+- Create the following directory structure using information provided as part of script_1 (see user_input.txt in OUTPUT_script_1) 
 	Assumes a seperate USER / projects (i.e. GROUP) storage setup
 
 - home
@@ -158,12 +158,12 @@ Run Simulation Files on Supercomputer
 							- pdfs
 							- figs
 
-> Upload the whole-cell model files to location indicated in structure
-> Upload runGraphs.m, compareGraphs.m, WildTypeBackground.fig, MGGrunner.m from UPLOAD_to_supercomputer folder to locations indicated in structure
-> Upload generated simulation files (*.sh, *_ko.list, *_exp.list) to location indicated in structure
-> To start running the simulation files on the supercomputer (if it uses SLURM queuing system) see lines 10 - 35 of *.sh (of generated simulation files) for commands
+- Upload the whole-cell model files to location indicated in structure
+- Upload runGraphs.m, compareGraphs.m, WildTypeBackground.fig, MGGrunner.m from UPLOAD_to_supercomputer folder to locations indicated in structure
+- Upload generated simulation files (*.sh, *_ko.list, *_exp.list) to location indicated in structure
+- To start running the simulation files on the supercomputer (if it uses SLURM queuing system) see lines 10 - 35 of *.sh (of generated simulation files) for commands
 
-> The result summary files will appear in JOBx (see user_input.txt in INPUT_script_1) folder, depending on the script / stage 
+- The result summary files will appear in JOBx (see user_input.txt in INPUT_script_1) folder, depending on the script / stage 
 	inputkoN_endtimes.txt			
 	divideko_endtimes.txt 			
 	conquerko_COLOUR_0_endtimes		
@@ -171,13 +171,13 @@ Run Simulation Files on Supercomputer
 	gapko_COLOUR_2_endtimes			
 	gapko_COLOUR_N_endtimes			
 	
-> These need to be downloaded and placed in the correct folder, before running the next script / stage
+- These need to be downloaded and placed in the correct folder, before running the next script / stage
 	inputkoN_endtimes.txt in INPUT_script_2		
 	divideko_endtimes.txt in INPUT_script_3 		
 	conquerko_COLOUR_0_endtimes in INPUT_script_4X	
 	gapko_COLOUR_N_endtimes in INPUT_script_4X		
 
-> Continue this process for each script:
+- Continue this process for each script:
 	Run the code by typing: python script2.py 
 	Run the code by typing: python script3.py 
 	Run the code by typing: python script4X.py 
@@ -188,53 +188,53 @@ DEMO / Test Data (Minesweeper)
 ==============================
 Expected run time for demo: 5 - 10 minutes. 
 
-> If you have not already, run the first stage as described above:
+- If you have not already, run the first stage as described above:
 	python script1.py 
 	
 	Open OUTPUT_final / deletionlog.txt
 
-> Replace files in OUTPUT_script_1 with contents of DEMO Test Data / input for Script 1 output (replace with)
-> Place files in INPUT_script_2 from DEMO Test Data / input for Script 2
-> Run the second stage:
+- Replace files in OUTPUT_script_1 with contents of DEMO Test Data / input for Script 1 output (replace with)
+- Place files in INPUT_script_2 from DEMO Test Data / input for Script 2
+- Run the second stage:
 	python script2.py 
 	
 	Open OUTPUT_final / deletionlog.txt
 
-> Place files in INPUT_script_3 from DEMO Test Data / input for Script 3
-> Run the third stage:
+- Place files in INPUT_script_3 from DEMO Test Data / input for Script 3
+- Run the third stage:
 	python script3.py 
 	
 	Open OUTPUT_final / deletionlog.txt
 	
-> Replace files in OUTPUT_script_3 with contents of DEMO Test Data / input for Script 3 output (replace with)
-> Place files in INPUT_script_4X in DEMO Test Data / input for Script 4X / from Script 3 (round 0)
-> Run the fourth stage (round 0):
+- Replace files in OUTPUT_script_3 with contents of DEMO Test Data / input for Script 3 output (replace with)
+- Place files in INPUT_script_4X in DEMO Test Data / input for Script 4X / from Script 3 (round 0)
+- Run the fourth stage (round 0):
 	python script4X.py 
 	
 	Open OUTPUT_final / deletionlog.txt
 	
-> Replace files in OUTPUT_script_4X with contents of DEMO Test Data / input for Script 4X output (replace with) / round 1
-> Replace files in INPUT_script_4X with contents of DEMO Test Data / input for Script 4X / from Script 4 (round 1)
-> Run the fourth stage (round 1):
-	python script4X.py 
-	
-	Open OUTPUT_final / deletionlog.txt
-
-> Replace files in OUTPUT_script_4X with contents of DEMO Test Data / input for Script 4X output (replace with) / round 2
-> Replace files in INPUT_script_4X with contents of DEMO Test Data / input for Script 4X / from Script 4 (round 2)
-> Run the fourth stage (round 2):
+- Replace files in OUTPUT_script_4X with contents of DEMO Test Data / input for Script 4X output (replace with) / round 1
+- Replace files in INPUT_script_4X with contents of DEMO Test Data / input for Script 4X / from Script 4 (round 1)
+- Run the fourth stage (round 1):
 	python script4X.py 
 	
 	Open OUTPUT_final / deletionlog.txt
 
-> Replace files in OUTPUT_script_4X with contents of DEMO Test Data / input for Script 4X output (replace with) / round 3
-> Replace files in INPUT_script_4X with contents of DEMO Test Data / input for Script 4X / from Script 4 (round 3)
-> Run the fourth stage (round 3):
+- Replace files in OUTPUT_script_4X with contents of DEMO Test Data / input for Script 4X output (replace with) / round 2
+- Replace files in INPUT_script_4X with contents of DEMO Test Data / input for Script 4X / from Script 4 (round 2)
+- Run the fourth stage (round 2):
 	python script4X.py 
 	
 	Open OUTPUT_final / deletionlog.txt
 
-> Demo is finished. Open OUTPUT_final / deletionlog.txt.
+- Replace files in OUTPUT_script_4X with contents of DEMO Test Data / input for Script 4X output (replace with) / round 3
+- Replace files in INPUT_script_4X with contents of DEMO Test Data / input for Script 4X / from Script 4 (round 3)
+- Run the fourth stage (round 3):
+	python script4X.py 
+	
+	Open OUTPUT_final / deletionlog.txt
+
+- Demo is finished. Open OUTPUT_final / deletionlog.txt.
 
 
 Replacing output files: 
@@ -320,8 +320,6 @@ Improvements will focus on documentation (comments, readme (markdown), demo), co
 Improvements will focus on testing (test driven development), code refactoring, filepaths, and (optionally) a terminal splashscreen.
 
 
-
-================================================================================================================================================================================================================================================================================
 Copy of Methods Section
 =======================
 
