@@ -7,6 +7,8 @@ GAMA Github: https://github.com/GriersonMarucciLab/GAMA
 
 Paper: Rees and Chalkley et al 2019, https://doi.org/10.1101/344564 (update post publication)
 
+Protocol Book Chapter: (update post publication)
+
 README Authors: 
 Joshua Rees, joshua.rees@bristol.ac.uk, github: squishybinary
 
@@ -162,7 +164,7 @@ Run Simulation Files on Supercomputer
 							- figs
 
 - Upload the whole-cell model files to location indicated in structure
-- Upload runGraphs.m, compareGraphs.m, WildTypeBackground.fig, MGGrunner.m from UPLOAD_to_supercomputer folder to locations indicated in structure
+- Upload runGraphs.m, compareGraphs.m, WildTypeBackground.fig, MGGrunner.m from github.com/GriersonMarucciLab/Analysis_Code_for_Mycoplasma_genitalium_whole-cell_model to locations indicated in structure
 - Upload generated simulation files (*.sh, *_ko.list, *_exp.list) to location indicated in structure
 - To start running the simulation files on the supercomputer (if it uses SLURM queuing system) see lines 10 - 35 of *.sh (of generated simulation files) for commands
 
