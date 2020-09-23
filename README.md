@@ -1,11 +1,16 @@
 # Minesweeper
 Genome Design Algorithm for Minimal Genomes using Whole Cell Models
 
+*September 2020 - Published Minesweeper_1.0.
+Added a new function to Scripts 2 - 4X, based on suggestions from Viva Examiners. Introduced a new function (dividedAndProducedProteinRNA) to check that simulations both produced a dividing cell and produced protein and RNA during the cell cycle. This is in line with changes to runGraphs.m (Analysis_Code_for_Mycoplasma_genitalium_whole-cell_model repository) that added Protein and RNA starting and ending values, and assigned a score to both (UP or DOWN) to the output (endtimes.txt). The cell now has to divide and have two UP scores (i.e. produce both protein and RNA during the cell cyle).
+I could find no examples in the previous Minesweeper run results of dividing cells that did not produce protein or RNA during the cell cycle, but these functions will now ensure that won't happen.*
+
 GAMA and Minesweeper: genome design algorithms for whole-cell models
 ====================================================================
 GAMA Github: https://github.com/GriersonMarucciLab/GAMA
 
-Paper: Rees and Chalkley et al 2019, https://doi.org/10.1101/344564 (update post publication)
+Paper: Rees-Garbutt, Joshua, Oliver Chalkley, Sophie Landon, Oliver Purcell, Lucia Marucci, and Claire Grierson. 2020. “Designing Minimal Genomes Using Whole-Cell Models.” Nature Communications 11 (1): 836.
+https://doi.org/10.1038/s41467-020-14545-0
 
 Protocol Book Chapter: (update post publication)
 
@@ -19,8 +24,6 @@ Affiliation: Genome Design Group, Life Sciences, University of Bristol BS8TQ UK
 Minesweeper License: GNU General Public License v3.0, gpl-3.0 https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)
 
 GAMA License: GNU General Public License v3.0, gpl-3.0 https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)
-
-Minesweeper Version: 0.9
 
 GAMA Version: 0.1 (Chalkley et al 2019, https://doi.org/10.1101/681270)
 
